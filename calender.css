@@ -1,0 +1,54 @@
+.header h1{
+  color: #cdcdcd;
+  font-family: "Trebuchet MS";
+}
+
+.header {
+  height: auto;
+  text-align: center;
+  left: 0;
+  top: 0;
+  z-index: 999;
+}
+
+.nav ul {
+  padding: 0;
+  font-family: 'Roboto Slab', serif;
+  border-bottom: 3px groove rgba(0, 0, 0, 0.3);
+  border: 3px groove rgba(0, 0, 0, 0.3);
+  background-color: #917c6d;
+  text-align: center;
+}
+
+.nav li {
+  display: inline-block;
+  font-size: 16px;
+  font-weight: 100;
+  letter-spacing: 2px;
+  margin: 20px;
+  color: #594321;
+}
+
+.background {
+  border: 2px solid #917c6d;
+  background-image: url("https://www.markelinsurance.com/outdoors/-/media/specialty/outdoors/outdoor-images/outdoor-program-home-3-1280-x-490.jpg");
+}
+
+a {
+    color: #594321;
+    text-decoration: none;
+}
+
+a:hover {
+     color: #2d1f15; 
+     text-decoration:none; 
+     cursor:pointer;  
+}
+
+body {
+  background-color: #edf9ff;
+}
+
+.calender {
+  text-align: center;
+}
