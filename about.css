@@ -48,13 +48,3 @@ a:hover {
 body {
   background-color: #edf9ff;
 }
-
-.gallery li {
-  display: inline-block;
-  border: 10px outset #5f708c;
-  margin: 5px; 
-}
-
-.gallery ul {
-  text-align: center;
-}
