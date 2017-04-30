@@ -60,4 +60,8 @@ body {
 
 img {
   border: 1px solid #000;
+  max-width: 100%;
+  height: auto;
+  width: auto\9;
+
 }
